@@ -22,9 +22,10 @@ no_index:
     - eg
     - examples
 requires:
+  Dist::Zilla::App: '0'
   perl: '5.008005'
 resources:
   bugtracker: https://github.com/tsibley/Dist-Zilla-App-Command-update/issues
   homepage: https://github.com/tsibley/Dist-Zilla-App-Command-update
   repository: https://github.com/tsibley/Dist-Zilla-App-Command-update.git
-version: '0.01'
+version: '0.02'
